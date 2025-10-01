@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<script>
+function greet() {
+    const name = document.getElementById('nameInput').value;
+    document.getElementById('greeting').textContent = name ? `안녕하세요, ${name}님!` : '';
+}
+</script>
+<form onsubmit="greet(); return false;">
+    이름: <input type="text" id="nameInput" />
+    <button type="submit">입력</button>
+</form>
+<p id="greeting"></p>
