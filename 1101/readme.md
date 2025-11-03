@@ -86,3 +86,39 @@ Economica 폰트로 전체 폰트를 변경하겠습니다.
 성별과 나이대 객관식 질문을 추가했습니다!
 
 <img width="436" height="852" alt="웹폼 7" src="https://github.com/user-attachments/assets/20c461d9-5470-415c-ada5-23e862475308" />
+
+
+8. 성별 체크항목에서 기타, 응답 안함 항목을 제거해줘
+
+성별 옵션에서 "기타"와 "응답 안함"을 제거하겠습니다.
+
+성별 옵션에서 "기타"와 "응답 안함"을 제거했습니다.
+
+<img width="423" height="814" alt="웹폼 8" src="https://github.com/user-attachments/assets/2ddaffd6-a3b3-47d7-bb01-2a7f1ba6bfd4" />
+
+
+9. "익명 처리되며 서비스 개선에 활용됩니다." 문구만 제거해줘
+
+소중한 의견 감사합니다. 익명 처리되며 서비스 개선에 활용됩니다.
+
+문구를 제거했습니다.
+
+<img width="417" height="818" alt="웹폼 9" src="https://github.com/user-attachments/assets/ccfd1a03-c7be-4592-aee7-4a1834194451" />
+
+
+10. 설문조사 페이지 진입 전, "설문조사에 참여하시겠습니까?" 라고 물어보고 "확인/취소" 버튼을 클릭해서 진입 할 수 있게 변경해줘.
+
+설문조사 진입 전 확인 다이얼로그를 추가하겠습니다.
+
+설문조사 진입 전 확인 다이얼로그를 추가했습니다.
+
+<img width="585" height="229" alt="웹폼 10" src="https://github.com/user-attachments/assets/36c93105-5e03-4007-8ade-bca6545bf688" />
+
+
+11. 각 카드마다 응답 할 때 유효성 검사를 실시간으로 해주고, 유효한 답변이 제출 될 때 마다 카드 레이아웃에 심플한 에니메이션 효과를 추가해줘
+
+각 카드에 실시간 유효성 검사와 애니메이션 효과를 추가하겠습니다.
+
+실시간 유효성 검사와 답변 완료 시 체크 아이콘 애니메이션을 추가했습니다.
+
+<img width="416" height="816" alt="웹폼 11" src="https://github.com/user-attachments/assets/c372e2c9-05bb-4b48-86fc-0ae45cd7d439" />
