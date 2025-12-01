@@ -1,0 +1,18 @@
+서울올림픽기념국민체육진흥공단_레저스포츠 시설 정보
+https://www.data.go.kr/data/15107853/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/TODZ_API_LEISURE_FACI_I
+
+전국체육시설현황 데이터
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=3b5399ad-88c4-43aa-a1d7-7ef6a630370b
+
+청소년 유아동 이용가능 체육시설 프로그램 정보
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=cae91264-6bc2-49fc-b38f-7df7d00c1e89
+
+문화체육관광부_문화광장-체육행사
+https://www.culture.go.kr/data/openapi/openapiView.do?id=591&category=E&gubun=A
+
+카카오맵 api
+https://www.mcst.go.kr/site/s_policy/dept/deptView.jsp?pCurrentPage=1&pType=07&pTab=01&pSeq=1965&pDataCD=0417000000&pSearchType=01&pSearchWord=%EC%B2%B4%EC%9C%A1%EC%8B%9C%EC%84%A4
+
+주소기반산업지원서비스 도로명주소 API 
+https://business.juso.go.kr/addrlink/openApi/apiReqst.do
+
